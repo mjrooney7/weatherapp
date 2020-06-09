@@ -1,3 +1,15 @@
+# Note [ For Changes ]
+
+In sunset and sunrise , am and pm were initialized according to the indian time .
+I know it should'nt be there !
+Anyway, i'll edit Asap .
+
+# APP Features 
+
+  It shows Weather update according to the city name that user enters .
+  used OpenWeatherApp as API .
+  used Bootstrap for Responsiveness .
+
 # Maximlw
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
